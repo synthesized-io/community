@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: SDK bug report
 about: Something not working? Submit a bug report.
-title: "[BUG]"
-labels: "\U0001F9FF bug"
+title: "[SDK BUG]"
+labels: "\U0001F9FF bug, :snake: SDK"
 assignees: ''
 
 ---
